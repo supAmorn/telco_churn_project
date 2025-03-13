@@ -16,9 +16,9 @@ ipykernel
 jupyter==1.0.0            # For running Jupyter Notebooks
 
 # Machine Learning Libraries
-# scikit-learn==1.2.0       # Machine learning algorithms and evaluation
-# xgboost==1.7.6            # XGBoost for gradient boosting models
-# lightgbm==3.3.5           # LightGBM for fast gradient boosting
+scikit-learn==1.2.0       # Machine learning algorithms and evaluation
+xgboost==1.7.6            # XGBoost for gradient boosting models
+lightgbm==3.3.5           # LightGBM for fast gradient boosting
 # catboost==1.2             # CatBoost for categorical data
 
 # Spark and SynapseML
