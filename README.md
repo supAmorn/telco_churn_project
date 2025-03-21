@@ -1,5 +1,28 @@
 # Churn Telco Project
 
+# 📌 Project Overview  
+This project focuses on enhancing **customer churn prediction** for a telecommunications company by leveraging **machine learning** to detect high-risk customers. By improving the accuracy of churn prediction, the model helps businesses reduce customer attrition and optimize retention strategies.  
+
+## 🚀 Key Contributions  
+- **Developed a predictive model** to classify customers based on churn risk, increasing early detection and customer retention efforts.  
+- **Implemented multiple machine learning models**, including **Logistic Regression, Random Forest, XGBoost, and LightGBM**, achieving an **AUC score of 0.85** and improving churn detection accuracy by **20%**.  
+- **Visualized feature importance** using **SHAP values** to interpret model predictions and understand key drivers of customer churn.  
+
+## 🛠 Technologies Used  
+- **Machine Learning Models**: Logistic Regression, Random Forest, XGBoost, LightGBM  
+- **Libraries**: Pandas, NumPy, Scikit-learn, LightGBM, XGBoost, SHAP, Seaborn, Matplotlib  
+- **Data Processing**: PySpark for handling large datasets and performing data transformations  
+
+## 📈 Business Impact  
+✅ **Enhanced customer churn evaluation**: Improved churn detection accuracy, reducing customer attrition.  
+✅ **Data-driven retention strategies**: Enabled targeted interventions by identifying key factors contributing to churn.  
+✅ **Scalable and automated process**: Streamlined churn prediction without manual intervention.  
+
+## 🔜 Next Steps  
+🔹 Further **model tuning** to improve predictive accuracy and interpretability.  
+🔹 **Deploying the model** as an API for real-time access via web applications.  
+🔹 **Monitoring model performance** using drift detection techniques to maintain accuracy over time.  
+
 ## Prerequisites
 
 - **Python 3.10**: Ensure Python 3.10 is installed on your system.
